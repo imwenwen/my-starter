@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.huaweicloud.com/repository/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="release_cn-south-1_087ef61905800f650f26c005df94c040_maven_5_6" />
+      <option name="name" value="release_cn-south-1_087ef61905800f650f26c005df94c040_maven_5_6" />
+      <option name="url" value="https://devrepo-cn-south-1.devcloud.huaweicloud.com/artgalaxy/cn-south-1_087ef61905800f650f26c005df94c040_maven_5_6/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://devrepo-cn-south-1.devcloud.huaweicloud.com/artgalaxy/cn-south-1_087ef61905800f650f26c005df94c040_maven_2_7/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Nexus" />
+      <option name="url" value="http://nexus.shixiucai.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshot_cn-south-1_087ef61905800f650f26c005df94c040_maven_6_6" />
+      <option name="name" value="snapshot_cn-south-1_087ef61905800f650f26c005df94c040_maven_6_6" />
+      <option name="url" value="https://devrepo-cn-south-1.devcloud.huaweicloud.com/artgalaxy/cn-south-1_087ef61905800f650f26c005df94c040_maven_6_6/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
